@@ -6,7 +6,7 @@ Teensy 4.0 คือบอร์ดไมโครคอนโทรลเลอ
 
 ราคา : 1,160.00 บาท
 
-ลิงค์ :[Teensy 4.0 Development](oardhttps://www.thaieasyelec.com/product/636/teensy-4-0).
+ลิงค์ :[Teensy 4.0 Development](oardhttps://www.thaieasyelec.com/product/636/teensy-4-0)
 
 ความเร็ว : 600 MHz
 
