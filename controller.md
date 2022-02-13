@@ -75,13 +75,14 @@ DFR0003 DFRduino Mega1280 เป็นบอร์ดไมโครคอนโ
 
 ## HF105-000
 
-![555](https://user-images.githubusercontent.com/98943450/153768519-26a99203-bb86-4693-848d-8792a3ceaf3e.jpg)
+<img width="491" alt="555" src="https://user-images.githubusercontent.com/98943450/153769046-e20ebfa5-3536-460b-9328-03c3b549af45.png">
 
 เป็นไมโครคอนโทรลเลอร์ประเภท RISC-V ที่ผลิตโดย SiFive
 
 ราคา :  23,009.00 บาท
 
 ลิงค์ : [HF105-000](https://th.mouser.com/ProductDetail/SiFive/HF105-000?qs=zW32dvEIR3vHEV%2FPYYkdMA%3D%3D)
+
 ความเร็ว : 1.2 GHz
 
 หน่วยความจำ : 16 GB
