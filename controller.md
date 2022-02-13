@@ -21,7 +21,7 @@ Teensy 4.0 คือบอร์ดไมโครคอนโทรลเลอ
 
 ## Raspberry Pi 4
 
-![222](https://user-images.githubusercontent.com/98943450/153768205-d710b023-c3c6-4000-a000-bf6ad00bab7e.jpg)
+<img width="547" alt="222" src="https://user-images.githubusercontent.com/98943450/153768962-86a0b8c7-b353-4ad3-9644-c71932d3b635.png">
 
 Raspberry Pi 4 เป็นไมโครคอนโทรลเลอร์ที่พัฒนาโดย Raspberry Pi Foundation	
 
