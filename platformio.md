@@ -37,10 +37,6 @@
 
 <img width="359" alt="55" src="https://user-images.githubusercontent.com/98943450/154095427-909b9046-d5a7-4c7f-824d-a187829a611d.png">
 
-เมื่อติดตั้งตัวโปรแกรมเสร็จแล้ว รันคำสั่งเพื่อเช็ค version โปรแกรม
-
-<img width="587" alt="66" src="https://user-images.githubusercontent.com/98943450/154096149-65052703-59a5-43c3-942f-489e65bc7291.png">
-
 4.	ตรวจสอบดูโฟลเดอร์ตัวอย่าง ex01,ex02,ex03 โดยการเปิด cmd เข้าไปในโฟลเดอร์ iotset1 แล้วรันคำสั่ง
 
 	cd iotset1/examples
